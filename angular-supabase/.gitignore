@@ -42,4 +42,4 @@ testem.log
 Thumbs.db
 
 # supabase API
-# src/environments/*
+src/environments/*
